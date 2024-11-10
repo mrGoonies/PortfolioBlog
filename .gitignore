@@ -1,0 +1,8 @@
+# Entorno virtual
+.venv
+
+# cache de python
+__pycache__
+
+# binario de base de datos
+db.sqlite3
